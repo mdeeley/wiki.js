@@ -2,7 +2,7 @@
 title: B2C
 description: 
 published: true
-date: 2025-03-15T22:43:32.867Z
+date: 2025-03-15T22:43:44.916Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-15T21:53:00.350Z
@@ -60,3 +60,5 @@ At the command prompt, type `nano`.
 Gone camping! :tent: Be back soon.
 
 That is so funny! :joy:
+
+I need to highlight these ==very important words==.
