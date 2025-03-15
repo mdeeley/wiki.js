@@ -2,7 +2,7 @@
 title: B2C
 description: 
 published: true
-date: 2025-03-15T22:43:07.316Z
+date: 2025-03-15T22:43:32.867Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-15T21:53:00.350Z
@@ -56,3 +56,7 @@ At the command prompt, type `nano`.
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+Gone camping! :tent: Be back soon.
+
+That is so funny! :joy:
