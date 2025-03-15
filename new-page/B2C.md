@@ -2,7 +2,7 @@
 title: B2C
 description: 
 published: true
-date: 2025-03-15T22:43:44.916Z
+date: 2025-03-15T22:52:03.520Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-15T21:53:00.350Z
@@ -62,3 +62,29 @@ Gone camping! :tent: Be back soon.
 That is so funny! :joy:
 
 I need to highlight these ==very important words==.
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+```mermaid
+flowchart LR
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
+```mermaid
+sequenceDiagram
+Alice->>John: Hello John, how are you?
+loop HealthCheck
+    John->>John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John-->>Alice: Great!
+John->>Bob: How about you?
+Bob-->>John: Jolly good!
+```
