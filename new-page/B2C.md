@@ -2,7 +2,7 @@
 title: B2C
 description: 
 published: true
-date: 2025-03-15T22:35:21.993Z
+date: 2025-03-15T22:43:07.316Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-15T21:53:00.350Z
@@ -11,8 +11,48 @@ dateCreated: 2025-03-15T21:53:00.350Z
 # B2C
 This is a test
 
+[Heading IDs](#custom-id)
+
 ![captain_jack_sparrow_(5764018454).jpg](/captain_jack_sparrow_(5764018454).jpg)
 
 #test
 
 <img src="/captain_jack_sparrow_(5764018454).jpg" width=250 height=200>
+
+Heading level 1
+===============
+
+I just love **bold text**.
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+
+At the command prompt, type `nano`.
+
+``Use `code` in your Markdown file.``
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+<h3 id="custom-id">My Great Heading</h3>
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
