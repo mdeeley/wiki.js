@@ -2,7 +2,7 @@
 title: B2C
 description: 
 published: true
-date: 2025-03-15T22:52:03.520Z
+date: 2025-03-16T12:08:17.429Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-15T21:53:00.350Z
@@ -13,11 +13,11 @@ This is a test
 
 [Heading IDs](#custom-id)
 
-![captain_jack_sparrow_(5764018454).jpg](/captain_jack_sparrow_(5764018454).jpg)
+![captain_jack_sparrow_(5764018454).jpg](/assets1/captain_jack_sparrow_(5764018454).jpg)
 
 #test
 
-<img src="/captain_jack_sparrow_(5764018454).jpg" width=250 height=200>
+<img src="/assets1/captain_jack_sparrow_(5764018454).jpg" width=250 height=200>
 
 Heading level 1
 ===============
