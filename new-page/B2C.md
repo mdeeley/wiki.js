@@ -2,10 +2,10 @@
 title: B2C
 description: 
 published: true
-date: 2025-03-16T12:08:17.429Z
+date: 2025-03-23T18:56:09.391Z
 tags: 
 editor: markdown
-dateCreated: 2025-03-15T21:53:00.350Z
+dateCreated: 2025-03-23T18:52:32.093Z
 ---
 
 # B2C
