@@ -1,8 +1,8 @@
 ---
-title: B2C
+title: Markdown test page
 description: 
 published: true
-date: 2025-03-23T18:56:09.391Z
+date: 2025-03-23T18:57:18.643Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T18:52:32.093Z
