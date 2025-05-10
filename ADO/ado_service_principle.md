@@ -1,8 +1,8 @@
 ---
-title: ADO Service principles
+title: Service principles
 description: 
 published: true
-date: 2025-05-05T11:58:56.068Z
+date: 2025-05-10T10:10:50.655Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-05T11:58:56.068Z
